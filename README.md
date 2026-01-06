@@ -18,7 +18,7 @@ Stay focused, organized, and calm—without distractions.
 - **Fully Offline**: No internet? No problem. Works 100% in your browser.
 
 ## 🛠️ Tech Stack
-- **Frontend**: HTML5, CSS3, Vanilla JavaScript (ES6+)
+- **Frontend**: HTML5, CSS3 and JavaScript 
 - **Data Storage**: `localStorage` (no backend required)
 - **Design**: Modern dark theme with glassmorphism effects, responsive layout
 
@@ -43,3 +43,4 @@ Free for personal and educational use. Modify and share as you like!
 
 
 > **FocusFlow** — Less clutter, more focus. 🧘‍♂️⏰✅
+
