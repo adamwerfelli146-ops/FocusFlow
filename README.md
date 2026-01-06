@@ -1,6 +1,6 @@
 # FocusFlow – Simple Productivity
 
-**A minimalist, offline-first productivity app with Pomodoro timer and task manager**
+A Minimalist Productivity App with Pomodoro Timer & To-Do List
 
 Stay focused, organized, and calm—without distractions.
 
@@ -40,5 +40,6 @@ Stay focused, organized, and calm—without distractions.
 Free for personal and educational use. Modify and share as you like!
 
 ---
+
 
 > **FocusFlow** — Less clutter, more focus. 🧘‍♂️⏰✅
